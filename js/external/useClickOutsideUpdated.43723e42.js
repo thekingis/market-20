@@ -1,0 +1,1 @@
+import{aB as n,q as s}from"./entry.8bd29e6a.js";const d=(t,e)=>{if(!t)return;const o=i=>{i.target==t.value||i.composedPath().includes(t.value)||typeof e=="function"&&e()};n(()=>{setTimeout(()=>{window.addEventListener("click",o)},0)}),s(()=>{window.removeEventListener("click",o)})};export{d as u};

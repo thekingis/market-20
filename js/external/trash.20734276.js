@@ -1,0 +1,1 @@
+import"./entry.8bd29e6a.js";const o=""+globalThis.__publicAssetsURL("img/modals/trigger-flow/trash.svg");export{o as _};

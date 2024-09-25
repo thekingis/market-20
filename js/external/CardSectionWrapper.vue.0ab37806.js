@@ -1,0 +1,1 @@
+import{d as t,m as a,a as r,o as s,c as n,aH as c}from"./entry.8bd29e6a.js";const p={class:"bg-card-wrapper p-4 rounded-lg w-full"},m=t({__name:"CardSectionWrapper",setup(d){const e=a();return r(()=>e.getShowStockCompetition),(o,i)=>(s(),n("div",p,[c(o.$slots,"default")]))}});export{m as _};

@@ -1,0 +1,1 @@
+import{b7 as p,b5 as o,b8 as i}from"./entry.8bd29e6a.js";const f={},t=p(f);function s(){const n=o();return n._appConfig||(n._appConfig=i(t)),n._appConfig}export{s as u};

@@ -1,0 +1,1 @@
+import{ba as o}from"./entry.8bd29e6a.js";import{l as t}from"./image-options.0ae7f2f4.js";var a=t;const s=o(a),k=(r=!1)=>{const e=s({breaks:!0,html:r});return{renderMarkdown:n=>e.render(n)}};export{k as u};

@@ -1,0 +1,1 @@
+import{r as a}from"./entry.8bd29e6a.js";const n=a([]),u=a(""),v=a(0),o=(t,i,r,l)=>{n.value=t,u.value=i;const c=l.query;n.value=t.map(e=>e.id.includes(c[r])?(i=e.id,u.value=i,{...e,active:!0}):{...e,active:!1});const s=n.value.findIndex(e=>e.id===i);v.value=s,n.value[s].active=!0};export{u as a,v as b,o as g,n as i};

@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.c27b6911.js";import{o as t,c as n}from"./entry.8bd29e6a.js";const o={},r={class:"bg-primary inline mr-2 rounded-sm text-[10px] leading-3 py-0.5 px-1 text-white"};function c(_,s){return t(),n("span",r,"PREMIUM")}const i=e(o,[["render",c]]);export{i as _};

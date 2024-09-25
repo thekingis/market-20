@@ -1,0 +1,1 @@
+const i=()=>({setContentPosition:e=>{e&&setTimeout(()=>{const t=document.getElementById(e),n=t.getBoundingClientRect();n.left+n.width>window.innerWidth&&(t.style.right="0px",t.style.transform="translateX(0)")},0)}});export{i as u};
